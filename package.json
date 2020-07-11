@@ -1,6 +1,6 @@
 {
   "name": "nuxt-parse-next",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "A parse module for Nuxt.js",
   "author": "Vittorio Emmermann",
   "keywords": [
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "jest": "25.1.0",
-    "nuxt": "2.11.0",
+    "nuxt": "2.13.0",
     "prettier": "1.19.1",
     "puppeteer": "2.1.0"
   },
@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "consola": "^2.3.2",
-    "parse": "^2.5.1"
+    "parse": "^2.14.0"
   },
   "directories": {
     "lib": "lib",
@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cierrateam/nuxt-parse.git"
+    "url": "git+https://github.com/laplaceliu/nuxt-parse-next.git"
   },
   "bugs": {
-    "url": "https://github.com/cierrateam/nuxt-parse/issues"
+    "url": "https://github.com/laplaceliu/nuxt-parse-next/issues"
   },
-  "homepage": "https://github.com/cierrateam/nuxt-parse#readme"
+  "homepage": "https://github.com/laplaceliu/nuxt-parse-next#readme"
 }
